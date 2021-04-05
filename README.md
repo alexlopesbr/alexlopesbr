@@ -17,6 +17,9 @@ Next step -> make development my profession.
 ### :books: Learning
 
 ![vuejs](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![reactjs](https://badges.aleen42.com/src/react.svg)
+
+
 
 ### :joystick: Hobbies
 
