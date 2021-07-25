@@ -1,23 +1,26 @@
-## :vulcan_salute: Hi!
+## Hi!
 
-I´m Alexandre from Brazil, a front-end developer in construction.
+I´m Alexandre from Brazil, a back-end developer.
 
-For now I'm a science teacher, but only for now.
-
-Next step -> make development my profession.
+Right now I'm on the dark side of the force building APIs in Python / Django Rest
 
 ### :hammer_and_wrench: Tools
 
+![python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![django_rest](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![html](https://img.shields.io/badge/-HTML-orange?logo=HTML5&logoColor=white&style=for-the-badge)
 ![css](https://img.shields.io/badge/-CSS-blue?logo=CSS3&logoColor=white&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-JavaScript-yellow?logo=Javascript&logoColor=white&style=for-the-badge)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlopesbr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### :books: Learning
-
 ![vuejs](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### :hammer_and_wrench: Another tools
+
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlopesbr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -26,6 +29,10 @@ Next step -> make development my profession.
 :video_game: Video-games ||
 :blue_book: Read ||
 :hiking_boot: Hiking
+
+### :sunglasses: Fun fact
+Color blind
+
 
 ### :speech_balloon: Social
 
