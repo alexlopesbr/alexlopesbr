@@ -12,8 +12,6 @@ Right now I'm on the dark side of the force building APIs in Python / Django Res
 ![html](https://img.shields.io/badge/-HTML-orange?logo=HTML5&logoColor=white&style=for-the-badge)
 ![css](https://img.shields.io/badge/-CSS-blue?logo=CSS3&logoColor=white&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-JavaScript-yellow?logo=Javascript&logoColor=white&style=for-the-badge)
-![vuejs](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### :hammer_and_wrench: Another tools
 
