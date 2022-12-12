@@ -38,4 +38,4 @@ Color blind
 
 ### :speech_balloon: Social
 
-<a href="https://www.linkedin.com/in/aleflopes/" target="_blank">![linkedin](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&style=for-the-badge)</a>
+<a href="https://www.linkedin.com/in/alexandre-backend-python/" target="_blank">![linkedin](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&style=for-the-badge)</a>
